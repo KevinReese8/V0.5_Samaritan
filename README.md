@@ -1,8 +1,22 @@
 # 🌟 V0.5_Samaritan  
-**Slogan | 标语：**  
-**"Let the one in our memories speak again — 让沉睡于回忆中的声音，再次响起"**
+
+> **Let the one in our memories speak again — 让沉睡于回忆中的声音，再次响起**  
+
+[![Python](https://img.shields.io/badge/python-3.10+-blue?logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![UI](https://img.shields.io/badge/UI-PySide6-lightgrey?logo=qt)]
+[![Chat Model](https://img.shields.io/badge/model-DeepSeek--Chat-red)](https://deepseek.com/)
 
 ---
+
+## 🧭 Table of Contents | 目录  
+- [📚 项目简介 | Overview](#-项目简介--overview)
+- [✨ 核心功能 | Key Features](#-核心功能--key-features)
+- [🚀 使用方法 | How to Use](#-使用方法--how-to-use)
+- [📂 文件说明 | File Description](#-文件说明--file-description)
+- [🌈 项目亮点 | Highlights](#-项目亮点--highlights)
+- [🔮 未来展望 | Future Plans](#-未来展望--future-plans)
+
 
 ## 📚 项目简介 | Overview  
 
