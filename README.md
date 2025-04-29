@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![UI](https://img.shields.io/badge/UI-PySide6-lightgrey?logo=qt)]
+[![UI](https://img.shields.io/badge/UI-PySide6-lightgrey?logo=qt)](UI)
 [![Chat Model](https://img.shields.io/badge/model-DeepSeek--Chat-red)](https://deepseek.com/)
 
 ---
